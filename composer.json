@@ -1,5 +1,1 @@
-{"name":"liberusoftware/module-crm-campaigns","type":"liberu-module","autoload":{"psr-4":{"Liberu\\CRM\\Campaigns\\":"src/"}},"extra":{"laravel":{"providers":["Liberu\\CRM\\Campaigns\\CampaignsServiceProvider"]},"liberu":{"name":"crm-campaigns"}},
-    "require": {
-        "liberusoftware/module-organizations-teams": "^1.0"
-    }
-}
+{"name":"liberusoftware/module-crm-campaigns","type":"liberu-module","autoload":{"psr-4":{"Liberu\\CRM\\Campaigns\\":"src/"}},"extra":{"laravel":{"providers":["Liberu\\CRM\\Campaigns\\CampaignsServiceProvider"]},"liberu":{"name":"crm-campaigns"}}}
