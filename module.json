@@ -2,7 +2,7 @@
   "name": "crm-campaigns",
   "display_name": "CRM Campaigns",
   "description": "Campaign planning, budgets, audiences, channels, tasks and ROI",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "category": "capability",
   "provider": "Liberu\\CRM\\Campaigns\\CampaignsServiceProvider",
   "requires": {
